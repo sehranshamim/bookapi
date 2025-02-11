@@ -27,7 +27,7 @@
     "country": "Italy",
     "imageLink": "images/the-divine-comedy.jpg",
     "language": "Italian",
-    "link": "https://en.wikipedia.org/wiki/Divine_Comedy\n",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Dante_Domenico_di_Michelino.jpg/1272px-Dante_Domenico_di_Michelino.jpg",
     "pages": 928,
     "title": "The Divine Comedy",
     "year": 1315
@@ -38,7 +38,7 @@
     "country": "United Kingdom",
     "imageLink": "images/pride-and-prejudice.jpg",
     "language": "English",
-    "link": "https://en.wikipedia.org/wiki/Pride_and_Prejudice\n",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/PrideAndPrejudiceTitlePage.jpg/634px-PrideAndPrejudiceTitlePage.jpg",
     "pages": 226,
     "title": "Pride and Prejudice",
     "year": 1813
@@ -49,7 +49,7 @@
     "country": "Republic of Ireland",
     "imageLink": "images/molloy-malone-dies-the-unnamable.jpg",
     "language": "French, English",
-    "link": "https://en.wikipedia.org/wiki/Molloy_(novel)\n",
+    "link": "https://upload.wikimedia.org/wikipedia/en/9/90/Beckett_Molloy.jpg",
     "pages": 256,
     "title": "Molloy, Malone Dies, The Unnamable, the trilogy",
     "year": 1952
@@ -60,7 +60,7 @@
     "country": "Argentina",
     "imageLink": "images/ficciones.jpg",
     "language": "Spanish",
-    "link": "https://en.wikipedia.org/wiki/Ficciones\n",
+    "link": "https://upload.wikimedia.org/wikipedia/en/d/d6/Ficciones.jpg",
     "pages": 224,
     "title": "Ficciones",
     "year": 1965
@@ -71,7 +71,7 @@
     "country": "Algeria, French Empire",
     "imageLink": "images/l-etranger.jpg",
     "language": "French",
-    "link": "https://en.wikipedia.org/wiki/The_Stranger_(novel)\n",
+    "link": "https://i0.wp.com/thegemsbok.com/wp-content/uploads/2015/11/The-Stranger-book-cover.png?w=262&ssl=1",
     "pages": 185,
     "title": "The Stranger",
     "year": 1942
@@ -82,7 +82,7 @@
     "country": "Spain",
     "imageLink": "images/don-quijote-de-la-mancha.jpg",
     "language": "Spanish",
-    "link": "https://en.wikipedia.org/wiki/Don_Quixote\n",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Title_page_first_edition_Don_Quijote.jpg/639px-Title_page_first_edition_Don_Quijote.jpg",
     "pages": 1056,
     "title": "Don Quijote De La Mancha",
     "year": 1610
@@ -93,130 +93,9 @@
     "country": "England",
     "imageLink": "images/the-canterbury-tales.jpg",
     "language": "English",
-    "link": "https://en.wikipedia.org/wiki/The_Canterbury_Tales\n",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Canterbury_Tales_characters_around_table_%E2%80%94_traced.svg/1324px-Canterbury_Tales_characters_around_table_%E2%80%94_traced.svg.png",
     "pages": 544,
     "title": "The Canterbury Tales",
     "year": 1450
-  },
-  {
-    "id": 10,
-    "author": "Joseph Conrad",
-    "country": "United Kingdom",
-    "imageLink": "images/nostromo.jpg",
-    "language": "English",
-    "link": "https://en.wikipedia.org/wiki/Nostromo\n",
-    "pages": 320,
-    "title": "Nostromo",
-    "year": 1904
-  },
-  {
-    "id": 11,
-    "author": "Charles Dickens",
-    "country": "United Kingdom",
-    "imageLink": "images/great-expectations.jpg",
-    "language": "English",
-    "link": "https://en.wikipedia.org/wiki/Great_Expectations\n",
-    "pages": 194,
-    "title": "Great Expectations",
-    "year": 1861
-  },
-  {
-    "id": 12,
-    "author": "Fyodor Dostoevsky",
-    "country": "Russia",
-    "imageLink": "images/crime-and-punishment.jpg",
-    "language": "Russian",
-    "link": "https://en.wikipedia.org/wiki/Crime_and_Punishment\n",
-    "pages": 551,
-    "title": "Crime and Punishment",
-    "year": 1866
-  },
-  {
-    "id": 13,
-    "author": "Fyodor Dostoevsky",
-    "country": "Russia",
-    "imageLink": "images/the-idiot.jpg",
-    "language": "Russian",
-    "link": "https://en.wikipedia.org/wiki/The_Idiot\n",
-    "pages": 656,
-    "title": "The Idiot",
-    "year": 1869
-  },
-  {
-    "id": 14,
-    "author": "George Eliot",
-    "country": "United Kingdom",
-    "imageLink": "images/middlemarch.jpg",
-    "language": "English",
-    "link": "https://en.wikipedia.org/wiki/Middlemarch\n",
-    "pages": 800,
-    "title": "Middlemarch",
-    "year": 1871
-  },
-  {
-    "id": 15,
-    "author": "Ralph Ellison",
-    "country": "United States",
-    "imageLink": "images/invisible-man.jpg",
-    "language": "English",
-    "link": "https://en.wikipedia.org/wiki/Invisible_Man\n",
-    "pages": 581,
-    "title": "Invisible Man",
-    "year": 1952
-  },
-  {
-    "id": 16,
-    "author": "William Faulkner",
-    "country": "United States",
-    "imageLink": "images/the-sound-and-the-fury.jpg",
-    "language": "English",
-    "link": "https://en.wikipedia.org/wiki/The_Sound_and_the_Fury\n",
-    "pages": 326,
-    "title": "The Sound and the Fury",
-    "year": 1929
-  },
-  {
-    "id": 17,
-    "author": "Gabriel García Márquez",
-    "country": "Colombia",
-    "imageLink": "images/one-hundred-years-of-solitude.jpg",
-    "language": "Spanish",
-    "link": "https://en.wikipedia.org/wiki/One_Hundred_Years_of_Solitude\n",
-    "pages": 417,
-    "title": "One Hundred Years of Solitude",
-    "year": 1967
-  },
-  {
-    "id": 18,
-    "author": "Homer",
-    "country": "Greece",
-    "imageLink": "images/the-iliad-of-homer.jpg",
-    "language": "Greek",
-    "link": "https://en.wikipedia.org/wiki/Iliad\n",
-    "pages": 608,
-    "title": "The Iliad",
-    "year": -750
-  },
-  {
-    "id": 19,
-    "author": "Homer",
-    "country": "Greece",
-    "imageLink": "images/the-odyssey-of-homer.jpg",
-    "language": "Greek",
-    "link": "https://en.wikipedia.org/wiki/Odyssey\n",
-    "pages": 374,
-    "title": "The Odyssey",
-    "year": -800
-  },
-  {
-    "id": 20,
-    "author": "Franz Kafka",
-    "country": "Czech Republic",
-    "imageLink": "images/the-trial.jpg",
-    "language": "German",
-    "link": "https://en.wikipedia.org/wiki/The_Trial\n",
-    "pages": 255,
-    "title": "The Trial",
-    "year": 1925
   }
 ]
